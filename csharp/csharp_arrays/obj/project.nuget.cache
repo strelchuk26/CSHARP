@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QbSrRDV/++UbgSrvWtFufoNlRt5Cb6cS4Bg1gaZs95vWEvSC3vh9r5EvH26F37sKXAaDHM2bU6DmVqfhwIHGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\CSHARP\\csharp\\csharp_arrays\\csharp_arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
