@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\bin\Debug\net6.0\cs_system_interfaces.exe
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\bin\Debug\net6.0\cs_system_interfaces.deps.json
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\bin\Debug\net6.0\cs_system_interfaces.runtimeconfig.json
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\bin\Debug\net6.0\cs_system_interfaces.dll
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\bin\Debug\net6.0\cs_system_interfaces.pdb
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.dll
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\refint\cs_system_interfaces.dll
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.pdb
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\cs_system_interfaces.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\CSHARP\cs_system_interfaces\cs_system_interfaces\obj\Debug\net6.0\ref\cs_system_interfaces.dll
